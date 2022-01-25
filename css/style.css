@@ -54,7 +54,7 @@ div {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-width: none 10px 3px none;
+    border-width: 0 10px 3px 0;
 }
 
 .yellow {
@@ -90,7 +90,7 @@ footer {
     background-image: linear-gradient(to right,#000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
 }
 
-.p {
+footer p {
     text-align: center;
     font-size: 20px;
     padding: 10px 10px 10px 0;
